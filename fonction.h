@@ -6,11 +6,11 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
 #include <SDL/SDL_mixer.h>
-typedef struct perso
+typedef struct ennemi
 {
 
 
 
 
 
-}perso;
+}ennemi;
